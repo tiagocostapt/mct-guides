@@ -7,4 +7,4 @@ This repository hosts a series of guides for the Microsoft Certified Trainer Com
 This guide was initiated by Konstantin Ceran - @[ADD KOSTAS GITHUB ID]
 
 ## Current Contributors
-[Tiago Costa](@tiagocostapt)
+[Tiago Costa](https://github.com/tiagocostapt)
